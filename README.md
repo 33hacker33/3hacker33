@@ -13,4 +13,4 @@ I'm a Master's student in Robotics with a Mechanical Engineering background. Pas
 - **PET Bottle to 3D Filament**: Recycling waste plastic into usable filament...
 
 ## 📫 Reach Me
-[LinkedIn](https://linkedin.com/in/your-profile)
+[LinkedIn](www.linkedin.com/in/pratik-chodankar200114)
