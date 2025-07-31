@@ -13,4 +13,4 @@ I'm a Master's student in Robotics with a Mechanical Engineering background. Pas
 - **3D Delt Clay Printer Patent Holder**: Printing sculptures with clay...
 
 ## 📫 Reach Me
-[LinkedIn](www.linkedin.com/in/pratik-chodankar200114)
+[LinkedIn](https://www.linkedin.com/in/pratik-chodankar200114/)
