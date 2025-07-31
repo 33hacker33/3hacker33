@@ -1,4 +1,4 @@
-# Hi, I'm Hooman 👋
+# Hi, I'm Pratik 👋
 
 I'm a Master's student in Robotics with a Mechanical Engineering background. Passionate about autonomous systems, swarm robotics, control systems, and sustainable technology.
 
@@ -10,7 +10,7 @@ I'm a Master's student in Robotics with a Mechanical Engineering background. Pas
 ## 🚀 Projects
 - **Swarm Robotics with Kilobots**: A decentralized A* path planning algorithm...
 - **Suspension System Simulation**: Simulink and state-space modeling...
-- **PET Bottle to 3D Filament**: Recycling waste plastic into usable filament...
+- **3D Delt Clay Printer Patent Holder**: Printing sculptures with clay...
 
 ## 📫 Reach Me
 [LinkedIn](www.linkedin.com/in/pratik-chodankar200114)
